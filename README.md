@@ -1,2 +1,3 @@
 # Mesh_Computational_Geometry
- Delaunay, Laplacien, Voronoï
+
+Lien vers le rapport https://daniel-dht.github.io/Mesh_Computational_Geometry/mesh_triangulation_Delaunay.pdf
